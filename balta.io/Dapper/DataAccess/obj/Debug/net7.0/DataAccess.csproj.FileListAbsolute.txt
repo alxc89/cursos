@@ -48,3 +48,4 @@ C:\Users\alexc\Documents\dev\cursos\balta.io\Dapper\DataAccess\obj\Debug\net7.0\
 C:\Users\alexc\Documents\dev\cursos\balta.io\Dapper\DataAccess\obj\Debug\net7.0\DataAccess.pdb
 C:\Users\alexc\Documents\dev\cursos\balta.io\Dapper\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
 C:\Users\alexc\Documents\dev\cursos\balta.io\Dapper\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\alexc\Documents\dev\cursos\balta.io\Dapper\DataAccess\bin\Debug\net7.0\Dapper.dll

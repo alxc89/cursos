@@ -1,10 +1,14 @@
 ﻿using Microsoft.Data.SqlClient;
+using Dapper;
+using DataAccess.Models;
 
 namespace DataAccess
 {
     class Program
     {
-        static void Main(string[] args)
+
+        #region ADO.Net
+        /*static void Main(string[] args)
         {
             const string connectionString = "Server=localhost,1433;Database=balta;Integrated Security=true;Trust Server Certificate=true";
             using (var connection = new SqlConnection(connectionString))
@@ -39,6 +43,22 @@ namespace DataAccess
                         //Ex: a primeira coluna o Id é um Guid, e seu index é o 0, logo ficaria: GetGuid(0)
                         Console.WriteLine($"{reader.GetGuid(0)} - {reader.GetString(1)}");
                     }
+                }
+            }
+        }*/
+        #endregion
+
+        static void Main(string[] args)
+        {
+            const string connectionString = "Server=localhost,1433;Database=balta;Integrated Security=true;Trust Server Certificate=true";
+            using (var connection = new SqlConnection(connectionString))
+            {
+                Console.WriteLine("Conectado!");
+
+                var categories = connection.Query<Category>("SELECT [Id], [Title] FROM [Category]");
+                foreach (var category in categories)
+                {
+                    Console.WriteLine($"{category.Id} - {category.Title}");
                 }
             }
         }
