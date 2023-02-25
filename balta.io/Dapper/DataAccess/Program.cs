@@ -52,8 +52,29 @@ namespace DataAccess
         {
             const string connectionString = "Server=localhost,1433;Database=balta;Integrated Security=true;Trust Server Certificate=true";
 
-            var id = new Guid();
-            var insertSql = "INSERT INTO [Category] VALUES(Id, title, url, summary, order, description, featured)";
+            var category = new Category()
+            {
+                Id = Guid.NewGuid(),
+                Title = "Amazon AWS",
+                Url = "amazon",
+                Description = "Categoria destinada a serviços do AWS",
+                Order = 8,
+                Summary = "AWS Cloud",
+                Featured = false
+            };
+
+            //Nunca concatenar string para evitar sql injection
+            //Para o caso do insert abaixo, melhor seria utilizar parâmetros    
+            var insertSql = @"INSERT INTO 
+                    [Category] 
+                VALUES(
+                    Id, 
+                    title, 
+                    url, 
+                    summary, 
+                    order, 
+                    description, 
+                    featured)";
 
 
             using (var connection = new SqlConnection(connectionString))
