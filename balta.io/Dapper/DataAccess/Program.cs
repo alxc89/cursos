@@ -51,14 +51,20 @@ namespace DataAccess
         static void Main(string[] args)
         {
             const string connectionString = "Server=localhost,1433;Database=balta;Integrated Security=true;Trust Server Certificate=true";
+
+            var id = new Guid();
+            var insertSql = "INSERT INTO [Category] VALUES(Id, title, url, summary, order, description, featured)";
+
+
             using (var connection = new SqlConnection(connectionString))
             {
                 Console.WriteLine("Conectado!");
 
+
                 var categories = connection.Query<Category>("SELECT [Id], [Title] FROM [Category]");
-                foreach (var category in categories)
+                foreach (var item in categories)
                 {
-                    Console.WriteLine($"{category.Id} - {category.Title}");
+                    Console.WriteLine($"{item.Id} - {item.Title}");
                 }
             }
         }
