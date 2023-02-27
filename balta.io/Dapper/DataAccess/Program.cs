@@ -63,7 +63,8 @@ namespace DataAccess
                 //CreateManyCategory(connection);
                 //ListCategories(connection);
                 //ExecuteProcedure(connection);
-                ExecuteReadProcedure(connection);
+                //ExecuteReadProcedure(connection);
+                ExecuteScalar(connection);
             }
         }
 
@@ -218,6 +219,46 @@ namespace DataAccess
 
             foreach (var item in courses)
                 Console.WriteLine(item.Id);
+        }
+
+        static void ExecuteScalar(SqlConnection connection)
+        {
+            var category = new Category()
+            {
+                Title = "Amazon AWS",
+                Url = "amazon",
+                Description = "Categoria destinada a serviços do AWS",
+                Order = 8,
+                Summary = "AWS Cloud",
+                Featured = false
+            };
+
+            //Nunca concatenar string para evitar sql injection
+            //Para o caso do insert abaixo, melhor seria utilizar parâmetros    
+            var insertSql = @"
+                INSERT INTO 
+                    [Category]
+                OUTPUT inserted.[Id] 
+                VALUES(
+                    NEWID(), 
+                    @title, 
+                    @url, 
+                    @summary, 
+                    @order, 
+                    @description, 
+                    @featured)";
+
+            var id = connection.ExecuteScalar<Guid>(insertSql, new
+            {
+                category.Title,
+                category.Url,
+                category.Summary,
+                category.Order,
+                category.Description,
+                category.Featured
+            });
+
+            Console.WriteLine($"A Categoria inserida foi: {id}");
         }
     }
 }
