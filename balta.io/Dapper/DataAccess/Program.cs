@@ -1,4 +1,5 @@
-﻿using Microsoft.Data.SqlClient;
+﻿using System.Data;
+using Microsoft.Data.SqlClient;
 using Dapper;
 using DataAccess.Models;
 
@@ -55,9 +56,13 @@ namespace DataAccess
             using (var connection = new SqlConnection(connectionString))
             {
                 Console.WriteLine("Conectado!");
-                UpdateCategory(connection);
-                ListCategories(connection);
+                //UpdateCategory(connection);
+                //ListCategories(connection);
                 //CreateCategory(connection);
+                //DeleteCategory(connection);
+                CreateManyCategory(connection);
+                ListCategories(connection);
+                ExecuteProcedure(connection);
             }
         }
 
@@ -120,6 +125,88 @@ namespace DataAccess
             });
 
             Console.WriteLine($"{rows} - registros atualizadas");
+        }
+
+        static void DeleteCategory(SqlConnection connection)
+        {
+            var deleteQuery = "DELETE [Category] WHERE [Id] = @Id";
+            var rows = connection.Execute(deleteQuery, new
+            {
+                id = new Guid("a339d9e0-d580-4208-a201-a89958ddb7c1")
+            });
+            Console.WriteLine($"{rows} registros excluídos");
+        }
+
+        static void CreateManyCategory(SqlConnection connection)
+        {
+            var category = new Category()
+            {
+                Id = Guid.NewGuid(),
+                Title = "Amazon AWS",
+                Url = "amazon",
+                Description = "Categoria destinada a serviços do AWS",
+                Order = 8,
+                Summary = "AWS Cloud",
+                Featured = false
+            };
+
+            var category2 = new Category()
+            {
+                Id = Guid.NewGuid(),
+                Title = "Categoria Nova",
+                Url = "categoria-nova",
+                Description = "Categoria Nova",
+                Order = 9,
+                Summary = "Categoria",
+                Featured = true
+            };
+
+            //Nunca concatenar string para evitar sql injection
+            //Para o caso do insert abaixo, melhor seria utilizar parâmetros    
+            var insertSql = @"INSERT INTO 
+                    [Category] 
+                VALUES(
+                    @Id, 
+                    @title, 
+                    @url, 
+                    @summary, 
+                    @order, 
+                    @description, 
+                    @featured)";
+
+            var rows = connection.Execute(insertSql, new[]
+            {
+                new
+                {
+                    category.Id,
+                    category.Title,
+                    category.Url,
+                    category.Description,
+                    category.Order,
+                    category.Summary,
+                    category.Featured
+                },
+                new
+                {
+                    category2.Id,
+                    category2.Title,
+                    category2.Url,
+                    category2.Description,
+                    category2.Order,
+                    category2.Summary,
+                    category2.Featured
+                }
+            });
+
+            Console.WriteLine($"{rows} - Linhas inseridas");
+        }
+
+        static void ExecuteProcedure(SqlConnection connection)
+        {
+            var procedure = "spDeleteStudent";
+            var pars = new { StudentID = "0e4000b8-bca8-462d-af77-8cafe34bf983" };
+            var affectdRows = connection.Execute(procedure, pars, commandType: CommandType.StoredProcedure);
+            Console.WriteLine($"{affectdRows} linhas afetadas");
         }
     }
 }
