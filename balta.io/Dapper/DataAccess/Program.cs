@@ -64,7 +64,8 @@ namespace DataAccess
                 //ListCategories(connection);
                 //ExecuteProcedure(connection);
                 //ExecuteReadProcedure(connection);
-                ExecuteScalar(connection);
+                //ExecuteScalar(connection);
+                //ReadView(connection);
             }
         }
 
@@ -259,6 +260,14 @@ namespace DataAccess
             });
 
             Console.WriteLine($"A Categoria inserida foi: {id}");
+        }
+    
+        static void ReadView(SqlConnection connection)
+        {
+            var sql = "SELECT * FROM [vwCourses]";
+            var courses = connection.Query(sql);
+            foreach(var item in courses)
+            System.Console.WriteLine($"{item.Id} - {item.Title}");
         }
     }
 }
