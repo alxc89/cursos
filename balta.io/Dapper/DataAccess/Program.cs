@@ -70,7 +70,8 @@ namespace DataAccess
                 //OneToMany(connection);
                 //QueryMultiple(connection);
                 //SelectIn(connection);
-                Like(connection);
+                //Like(connection);
+                Transactions(connection);
             }
         }
 
@@ -378,6 +379,50 @@ namespace DataAccess
 
             foreach (var item in items)
                 System.Console.WriteLine(item.Title);
+        }
+
+        static void Transactions(SqlConnection connection)
+        {
+            var category = new Category()
+            {
+                Id = Guid.NewGuid(),
+                Title = "Minha categoria que não quero salvar",
+                Url = "amazon",
+                Description = "Categoria destinada a serviços do AWS",
+                Order = 8,
+                Summary = "AWS Cloud",
+                Featured = false
+            };
+
+            var insertSql = @"INSERT INTO 
+                    [Category] 
+                VALUES(
+                    @Id, 
+                    @title, 
+                    @url, 
+                    @summary, 
+                    @order, 
+                    @description, 
+                    @featured)";
+            connection.Open();
+            using (var transaction = connection.BeginTransaction())
+            {
+                var rows = connection.Execute(insertSql, new
+                {
+                    category.Id,
+                    category.Title,
+                    category.Url,
+                    category.Description,
+                    category.Order,
+                    category.Summary,
+                    category.Featured
+                }, transaction);
+
+                transaction.Commit();
+                //transaction.Rollback(); se não colocar nada, também dar rollback, o rollback é por padrão
+                Console.WriteLine($"{rows} - Linhas inseridas");
+            };
+
         }
     }
 }
