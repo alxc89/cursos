@@ -9,7 +9,7 @@ namespace Blog
         private const string CONNECTION_STRING = "Server=localhost,1433;Database=Blog;Integrated Security=true;Trust Server Certificate=true";
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello World");
+            ReadUsers();
         }
 
         public static void ReadUsers()
