@@ -1,4 +1,5 @@
-﻿using Blog.Models;
+using Blog.Models;
+using Blog.Repositories;
 using Dapper.Contrib.Extensions;
 using Microsoft.Data.SqlClient;
 
@@ -9,22 +10,22 @@ namespace Blog
         private const string CONNECTION_STRING = "Server=localhost,1433;Database=Blog;Integrated Security=true;Trust Server Certificate=true";
         static void Main(string[] args)
         {
+            var connection = new SqlConnection(CONNECTION_STRING);
+            connection.Open();
             //CreateUser();
-            UpdateUser();
-            DeleteUser();
-            ReadUsers();
-            ReadUser();
+            //UpdateUser();
+            //DeleteUser();
+            ReadUsers(connection);
+            //ReadUser();
+            connection.Close();
         }
 
-        public static void ReadUsers()
+        public static void ReadUsers(SqlConnection connection)
         {
-            using (var connection = new SqlConnection(CONNECTION_STRING))
-            {
-                var users = connection.GetAll<User>();
-
-                foreach (var user in users)
-                    System.Console.WriteLine(user.Name);
-            }
+            var respository = new UserRepository(connection);
+            var users = respository.Get();
+            foreach (var user in users)
+                System.Console.WriteLine(user.Name);
         }
 
         public static void ReadUser()
@@ -45,7 +46,7 @@ namespace Blog
                 Email = "alex@teste.com.br",
                 Image = "https://",
                 Name = "Equipe",
-                PasswordHash = "aldkfaçls",
+                PasswordHash = "aldkfa�ls",
                 Slug = "equipe-alex"
             };
             using (var connection = new SqlConnection(CONNECTION_STRING))
@@ -65,7 +66,7 @@ namespace Blog
                 Email = "alex@teste.com.br",
                 Image = "https://",
                 Name = "Equipe",
-                PasswordHash = "aldkfaçls",
+                PasswordHash = "aldkfa�ls",
                 Slug = "equipe-alex"
             };
             using (var connection = new SqlConnection(CONNECTION_STRING))
