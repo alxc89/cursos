@@ -1,22 +1,43 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Blog.Models;
-using Dapper.Contrib.Extensions;
+using Dapper;
 using Microsoft.Data.SqlClient;
 
 namespace Blog.Repositories
 {
-    public class UserRepository
+    public class UserRepository : Repository<User>
     {
         private readonly SqlConnection _connection;
+        public UserRepository(SqlConnection connection) : base(connection) => _connection = connection;
 
-        public UserRepository(SqlConnection connection) => _connection = connection;
-        public IEnumerable<User> Get() => _connection.GetAll<User>();
+        public List<User> GetWithRoles()
+        {
+            var query = @"
+                SELECT 
+                    [User].*,
+                    [Role].*
+                FROM 
+                    [User]
+                    LEFT JOIN [UserRole] ON [UserRole].[UserId] = [User].[Id]
+                    LEFT JOIN [Role] ON [UserRole].[RoleID] = [Role].[Id]";
+            var users = new List<User>();
+            var items = _connection.Query<User, Role, User>(
+                query,
+                (user, role) =>
+                {
+                    var usr = users.FirstOrDefault(x => x.Id == user.Id);
+                    if (usr == null)
+                    {
+                        usr = user;
+                        if (role != null)
+                            usr.Roles.Add(role);
+                        users.Add(usr);
+                    }
+                    else
+                        usr.Roles.Add(role);
+                    return user;
+                }, splitOn: "Id");
 
-        public User Get(int id) => _connection.Get<User>(id);
-
-        public void Create(User user) => _connection.Insert<User>(user);
+            return users;
+        }
     }
 }

@@ -1,4 +1,4 @@
-using Blog.Models;
+﻿using Blog.Models;
 using Blog.Repositories;
 using Dapper.Contrib.Extensions;
 using Microsoft.Data.SqlClient;
@@ -12,79 +12,95 @@ namespace Blog
         {
             var connection = new SqlConnection(CONNECTION_STRING);
             connection.Open();
-            //CreateUser();
-            //UpdateUser();
-            //DeleteUser();
-            ReadUsers(connection);
-            //ReadUser();
+
+            ReadUsersWithRoles(connection);
+            ReadRoles(connection);
+            ReadTags(connection);
+            //CreateUser(connection);
+            //DeleteUser(connection, 1);
             connection.Close();
         }
 
-        public static void ReadUsers(SqlConnection connection)
+        public static void ReadUsersWithRoles(SqlConnection connection)
         {
             var respository = new UserRepository(connection);
-            var users = respository.Get();
-            foreach (var user in users)
-                System.Console.WriteLine(user.Name);
-        }
-
-        public static void ReadUser()
-        {
-            using (var connection = new SqlConnection(CONNECTION_STRING))
+            var items = respository.GetWithRoles();
+            foreach (var item in items)
             {
-                var user = connection.Get<User>(1);
-
-                System.Console.WriteLine(user.Name);
+                Console.WriteLine(item.Name);
+                foreach (var role in item.Roles)
+                    Console.WriteLine($"- {role.Name}");
             }
         }
 
-        public static void CreateUser()
+        public static void CreateUser(SqlConnection connection)
         {
             var user = new User()
             {
-                Bio = "Equipe Alex",
-                Email = "alex@teste.com.br",
-                Image = "https://",
-                Name = "Equipe",
-                PasswordHash = "aldkfa�ls",
-                Slug = "equipe-alex"
+                Email = "teste@balta.io",
+                Bio = "bio",
+                Image = "imagem",
+                Name = "Name",
+                PasswordHash = "hash",
+                Slug = "slug"
             };
-            using (var connection = new SqlConnection(CONNECTION_STRING))
-            {
-                connection.Insert<User>(user);
-
-                System.Console.WriteLine("Cadastrado");
-            }
+            var respository = new Repository<User>(connection);
+            respository.Create(user);
         }
 
-        public static void UpdateUser()
+        public static void ReadRoles(SqlConnection connection)
         {
-            var user = new User()
-            {
-                Id = 2,
-                Bio = "Equipe Alex | Joaquim",
-                Email = "alex@teste.com.br",
-                Image = "https://",
-                Name = "Equipe",
-                PasswordHash = "aldkfa�ls",
-                Slug = "equipe-alex"
-            };
-            using (var connection = new SqlConnection(CONNECTION_STRING))
-            {
-                connection.Update<User>(user);
-
-                System.Console.WriteLine("Alterado com sucesso!");
-            }
+            var respository = new Repository<Role>(connection);
+            var items = respository.Get();
+            foreach (var item in items)
+                System.Console.WriteLine(item.Name);
         }
 
-        public static void DeleteUser()
+        public static void ReadTags(SqlConnection connection)
         {
-            using (var connection = new SqlConnection(CONNECTION_STRING))
-            {
-                var user = connection.Get<User>(2);
-                connection.Delete<User>(user);
+            var respository = new Repository<Tag>(connection);
+            var items = respository.Get();
+            foreach (var item in items)
+                System.Console.WriteLine(item.Name);
+        }
 
-                System.Console.WriteLine("Apagado com sucesso!");
+        public static void DeleteUser(SqlConnection connection, int id)
+        {
+            var respository = new Repository<User>(connection);
+            User item = respository.Get(id);
+            try
+            {
+                respository.Delete(item);
+            }
+            catch (System.Exception)
+            {
+                Console.WriteLine("Não foi possível deletar");
+            }
+        }
+        public static void DeleteRole(SqlConnection connection, int id)
+        {
+            var respository = new Repository<Role>(connection);
+            Role item = respository.Get(id);
+            try
+            {
+                respository.Delete(item);
+            }
+            catch (System.Exception)
+            {
+                Console.WriteLine("Não foi possível deletar");
+            }
+        }
+        public static void DeleteTag(SqlConnection connection, int id)
+        {
+            var respository = new Repository<Tag>(connection);
+            Tag item = respository.Get(id);
+            try
+            {
+                respository.Delete(item);
+            }
+            catch (System.Exception)
+            {
+                Console.WriteLine("Não foi possível deletar");
             }
         }
     }
