@@ -2,8 +2,10 @@ using Blog.Data;
 using Blog.Extensions;
 using Blog.Models;
 using Blog.ViewModels;
+using Blog.ViewModels.Categories;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace Blog.Controllers
 {
@@ -11,11 +13,14 @@ namespace Blog.Controllers
     public class CategoryController : ControllerBase
     {
         [HttpGet("v1/categories")]
-        public async Task<IActionResult> GetAsync([FromServices] BlogDataContext context)
+        public async Task<IActionResult> GetAsync([FromServices] BlogDataContext context, [FromServices] IMemoryCache cache)
         {
             try
             {
-                var categories = await context.Categories.ToListAsync();
+                var categories = cache.GetOrCreate("CategoriesCache", entry => {
+                    entry.AbsoluteExpirationRelativeToNow = TimeSpan.FromHours(1);
+                    return GetGategories(context);
+                });
                 return Ok(new ResultViewModel<List<Category>>(categories));
             }
             catch (DbUpdateException ex)
@@ -28,6 +33,11 @@ namespace Blog.Controllers
                 Console.WriteLine(e.InnerException.Message);
                 return StatusCode(500, new ResultViewModel<List<Category>>("Falha interna no servidor"));
             }
+        }
+
+        private List<Category> GetGategories(BlogDataContext context)
+        {
+            return context.Categories.ToList();
         }
 
         [HttpGet("v2/categories")]
@@ -60,12 +70,7 @@ namespace Blog.Controllers
         {
             try
             {
-                var category = new Category
-                {
-                    Id = 0,
-                    Name = model.Name,
-                    Slug = model.Slug.ToLower()
-                };
+                var category = new Category { Id = 0, Name = model.Name, Slug = model.Slug.ToLower() };
 
                 if (!ModelState.IsValid)
                     return BadRequest(new ResultViewModel<Category>(ModelState.GetErrors()));
@@ -73,7 +78,7 @@ namespace Blog.Controllers
                 await context.SaveChangesAsync();
                 return Created($"v1/categories/{category.Id}", new ResultViewModel<Category>(category));
             }
-            catch (DbUpdateException ex)
+            catch (DbUpdateException)
             {
                 return StatusCode(500, new ResultViewModel<Category>("Não foi possível incluir a categoria"));
             }
@@ -100,7 +105,7 @@ namespace Blog.Controllers
                 await context.SaveChangesAsync();
                 return Ok(new ResultViewModel<Category>(category));
             }
-            catch (DbUpdateException ex)
+            catch (DbUpdateException)
             {
                 return StatusCode(500, new ResultViewModel<Category>("Não foi possível alterar a categoria"));
             }

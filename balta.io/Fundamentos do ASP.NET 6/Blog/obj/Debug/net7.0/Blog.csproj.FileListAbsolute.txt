@@ -1,5 +1,6 @@
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\appsettings.json
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Blog.staticwebassets.runtime.json
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Blog.exe
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Blog.deps.json
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Blog.runtimeconfig.json
@@ -8,6 +9,7 @@ C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\D
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Azure.Identity.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
@@ -24,9 +26,14 @@ C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\D
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Microsoft.OpenApi.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\SecureIdentity.dll
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\bin\Debug\net7.0\System.Drawing.Common.dll
@@ -53,6 +60,7 @@ C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\obj\D
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\obj\Debug\net7.0\Blog.AssemblyInfoInputs.cache
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\obj\Debug\net7.0\Blog.AssemblyInfo.cs
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\obj\Debug\net7.0\Blog.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\obj\Debug\net7.0\Blog.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\obj\Debug\net7.0\Blog.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\obj\Debug\net7.0\staticwebassets\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\alexc\Documents\dev\cursos\balta.io\Fundamentos do ASP.NET 6\Blog\obj\Debug\net7.0\staticwebassets\msbuild.build.Blog.props
