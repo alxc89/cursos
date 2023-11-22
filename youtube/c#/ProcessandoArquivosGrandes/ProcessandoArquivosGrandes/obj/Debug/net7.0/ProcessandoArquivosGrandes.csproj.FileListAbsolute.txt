@@ -1,0 +1,15 @@
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\bin\Debug\net7.0\ProcessandoArquivosGrandes.exe
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\bin\Debug\net7.0\ProcessandoArquivosGrandes.deps.json
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\bin\Debug\net7.0\ProcessandoArquivosGrandes.runtimeconfig.json
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\bin\Debug\net7.0\ProcessandoArquivosGrandes.dll
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\bin\Debug\net7.0\ProcessandoArquivosGrandes.pdb
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\obj\Debug\net7.0\ProcessandoArquivosGrandes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\obj\Debug\net7.0\ProcessandoArquivosGrandes.AssemblyInfoInputs.cache
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\obj\Debug\net7.0\ProcessandoArquivosGrandes.AssemblyInfo.cs
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\obj\Debug\net7.0\ProcessandoArquivosGrandes.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\obj\Debug\net7.0\ProcessandoArquivosGrandes.sourcelink.json
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\obj\Debug\net7.0\ProcessandoArquivosGrandes.dll
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\obj\Debug\net7.0\refint\ProcessandoArquivosGrandes.dll
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\obj\Debug\net7.0\ProcessandoArquivosGrandes.pdb
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\obj\Debug\net7.0\ProcessandoArquivosGrandes.genruntimeconfig.cache
+C:\Users\alexc\Documents\dev\cursos\youtube\c#\ProcessandoArquivosGrandes\ProcessandoArquivosGrandes\obj\Debug\net7.0\ref\ProcessandoArquivosGrandes.dll
