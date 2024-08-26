@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\obj\\Debug\\net8.0\\compressed\\5ie6la2mhv.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\wwwroot\\Imgs\\dima.png",
+      "PackagePath": "staticwebassets\\Imgs\\dima.png"
+    },
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\wwwroot\\Imgs\\logo.png",
+      "PackagePath": "staticwebassets\\Imgs\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\alexc\\Documents\\dev\\dima\\Dima.App\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Dima.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Dima.App.props",
+      "PackagePath": "build\\Dima.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Dima.App.props",
+      "PackagePath": "buildMultiTargeting\\Dima.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Dima.App.props",
+      "PackagePath": "buildTransitive\\Dima.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
