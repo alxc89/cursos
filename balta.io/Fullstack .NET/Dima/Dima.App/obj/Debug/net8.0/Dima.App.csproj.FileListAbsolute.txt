@@ -1045,3 +1045,10 @@ C:\Users\alexc\Documents\dev\dima\Dima.App\obj\Debug\net8.0\compressed\bu4hh7y8z
 C:\Users\alexc\Documents\dev\dima\Dima.App\obj\Debug\net8.0\compressed\hz5qd7862f.gz
 C:\Users\alexc\Documents\dev\dima\Dima.App\obj\Debug\net8.0\compressed\nmmvzt9a0a.gz
 C:\Users\alexc\Documents\dev\dima\Dima.App\obj\Debug\net8.0\compressed\olz1fjrdap.gz
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fullstack .NET\Dima\Dima.App\obj\Debug\net8.0\Dima.App.csproj.AssemblyReference.cache
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fullstack .NET\Dima\Dima.App\obj\Debug\net8.0\Dima.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fullstack .NET\Dima\Dima.App\obj\Debug\net8.0\Dima.App.AssemblyInfoInputs.cache
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fullstack .NET\Dima\Dima.App\obj\Debug\net8.0\Dima.App.AssemblyInfo.cs
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fullstack .NET\Dima\Dima.App\obj\Debug\net8.0\Dima.App.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fullstack .NET\Dima\Dima.App\obj\Debug\net8.0\Dima.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexc\Documents\dev\cursos\balta.io\Fullstack .NET\Dima\Dima.App\obj\Debug\net8.0\Dima.App.sourcelink.json

@@ -1,0 +1,2890 @@
+{
+    "@t": "2022-12-28T03:55:33.7059656Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'NovoCliente.sexo'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7062413Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7062985Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7065922Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'NovoCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7075664Z",
+    "@mt": "Rule 'Pattern' applied for property 'NovoCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7078680Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7079574Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7087642Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'NovoCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7097026Z",
+    "@mt": "Rule 'Length' applied for property 'NovoCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7103646Z",
+    "@mt": "Rule 'Length' applied for property 'NovoCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7421349Z",
+    "@mt": "Applying FluentValidation rules to swagger schema 'AlteraCliente'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7422137Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.id'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7422850Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.id'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7423110Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.id'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7440424Z",
+    "@mt": "Rule 'Comparison' applied for property 'AlteraCliente.id'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7460799Z",
+    "@mt": "Applying FluentValidation rules to swagger schema 'AlteraCliente'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7461796Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7462162Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7465399Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7467327Z",
+    "@mt": "Rule 'Length' applied for property 'AlteraCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7473134Z",
+    "@mt": "Rule 'Length' applied for property 'AlteraCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7475210Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7475675Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7508234Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7522453Z",
+    "@mt": "Rule 'Comparison' applied for property 'AlteraCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7533341Z",
+    "@mt": "Rule 'Comparison' applied for property 'AlteraCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7539303Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.sexo'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7540897Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.sexo'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7570195Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.sexo'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7574397Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7575524Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7581905Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7584402Z",
+    "@mt": "Rule 'Pattern' applied for property 'AlteraCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7585117Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7585278Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7588041Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7589900Z",
+    "@mt": "Rule 'Length' applied for property 'AlteraCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.7593211Z",
+    "@mt": "Rule 'Length' applied for property 'AlteraCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:33.8251052Z",
+    "@mt": "{HostingRequestFinishedLog:l}",
+    "@r": [
+        "Request finished HTTP/2 GET https://localhost:7118/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 312.0351ms"
+    ],
+    "ElapsedMilliseconds": 312.0351,
+    "StatusCode": 200,
+    "ContentType": "application/json;charset=utf-8",
+    "ContentLength": null,
+    "Protocol": "HTTP/2",
+    "Method": "GET",
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/swagger/v1/swagger.json",
+    "QueryString": "",
+    "HostingRequestFinishedLog": "Request finished HTTP/2 GET https://localhost:7118/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 312.0351ms",
+    "EventId": {
+        "Id": 2
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8GTF5ARNO:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T03:55:37.4992204Z",
+    "@mt": "{HostingRequestStartingLog:l}",
+    "@r": [
+        "Request starting HTTP/2 GET https://localhost:7118/api/Clientes - -"
+    ],
+    "Protocol": "HTTP/2",
+    "Method": "GET",
+    "ContentType": null,
+    "ContentLength": null,
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/api/Clientes",
+    "QueryString": "",
+    "HostingRequestStartingLog": "Request starting HTTP/2 GET https://localhost:7118/api/Clientes - -",
+    "EventId": {
+        "Id": 1
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8GTF5ARNO:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:55:37.5041628Z",
+    "@mt": "{CandidateCount} candidate(s) found for the request path '{Path}'",
+    "@l": "Debug",
+    "CandidateCount": 1,
+    "Path": "/api/Clientes",
+    "EventId": {
+        "Id": 1001,
+        "Name": "CandidatesFound"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.Matching.DfaMatcher",
+    "RequestId": "0HMN8GTF5ARNO:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:55:37.5084379Z",
+    "@mt": "Endpoint '{Endpoint}' with route pattern '{RoutePattern}' is valid for the request path '{Path}'",
+    "@l": "Debug",
+    "Endpoint": "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+    "RoutePattern": "api/Clientes",
+    "Path": "/api/Clientes",
+    "EventId": {
+        "Id": 1005,
+        "Name": "CandidateValid"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.Matching.DfaMatcher",
+    "RequestId": "0HMN8GTF5ARNO:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:55:37.5092413Z",
+    "@mt": "Request matched endpoint '{EndpointName}'",
+    "@l": "Debug",
+    "EndpointName": "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+    "EventId": {
+        "Id": 1,
+        "Name": "MatchSuccess"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware",
+    "RequestId": "0HMN8GTF5ARNO:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:55:37.5129205Z",
+    "@mt": "Static files was skipped as the request already matched an endpoint.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 15,
+        "Name": "EndpointMatched"
+    },
+    "SourceContext": "Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware",
+    "RequestId": "0HMN8GTF5ARNO:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:55:37.5223243Z",
+    "@mt": "Executing endpoint '{EndpointName}'",
+    "EndpointName": "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+    "EventId": {
+        "Name": "ExecutingEndpoint"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointMiddleware",
+    "RequestId": "0HMN8GTF5ARNO:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:55:37.7154217Z",
+    "@mt": "Executed endpoint '{EndpointName}'",
+    "EndpointName": "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+    "EventId": {
+        "Id": 1,
+        "Name": "ExecutedEndpoint"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointMiddleware",
+    "ActionId": "5ebcf0b7-9785-4a64-8d50-a5c3ddcd513e",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+    "RequestId": "0HMN8GTF5ARNO:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:55:37.7167919Z",
+    "@mt": "An unhandled exception has occurred while executing the request.",
+    "@l": "Error",
+    "@x": "System.Exception: Erro de teste\r\n   at src.api.UI.Controllers.ClientesController.Get() in C:\\Users\\alexc\\Documents\\dev\\ConsultorioLegal\\src\\api\\UI\\Controllers\\ClientesController.cs:line 30\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\r\n   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)\r\n   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)",
+    "EventId": {
+        "Id": 1,
+        "Name": "UnhandledException"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware",
+    "RequestId": "0HMN8GTF5ARNO:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:55:37.7474776Z",
+    "@mt": "{HostingRequestFinishedLog:l}",
+    "@r": [
+        "Request finished HTTP/2 GET https://localhost:7118/api/Clientes - - - 500 - text/plain;+charset=utf-8 248.1813ms"
+    ],
+    "ElapsedMilliseconds": 248.1813,
+    "StatusCode": 500,
+    "ContentType": "text/plain; charset=utf-8",
+    "ContentLength": null,
+    "Protocol": "HTTP/2",
+    "Method": "GET",
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/api/Clientes",
+    "QueryString": "",
+    "HostingRequestFinishedLog": "Request finished HTTP/2 GET https://localhost:7118/api/Clientes - - - 500 - text/plain;+charset=utf-8 248.1813ms",
+    "EventId": {
+        "Id": 2
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8GTF5ARNO:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:55:42.7780864Z",
+    "@mt": "Connection id \"{ConnectionId}\" received FIN.",
+    "@l": "Debug",
+    "ConnectionId": "0HMN8GTF5ARNO",
+    "EventId": {
+        "Id": 6,
+        "Name": "ConnectionReadFin"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets"
+}
+{
+    "@t": "2022-12-28T03:55:42.7814404Z",
+    "@mt": "Connection id \"{ConnectionId}\" sending FIN because: \"{Reason}\"",
+    "@l": "Debug",
+    "ConnectionId": "0HMN8GTF5ARNO",
+    "Reason": "The client closed the connection.",
+    "EventId": {
+        "Id": 7,
+        "Name": "ConnectionWriteFin"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets"
+}
+{
+    "@t": "2022-12-28T03:57:41.4530608Z",
+    "@mt": "Iniciando o WebApi"
+}
+{
+    "@t": "2022-12-28T03:57:41.5599326Z",
+    "@mt": "Now listening on: {address}",
+    "address": "https://localhost:7118",
+    "EventId": {
+        "Id": 14,
+        "Name": "ListeningOnAddress"
+    },
+    "SourceContext": "Microsoft.Hosting.Lifetime"
+}
+{
+    "@t": "2022-12-28T03:57:41.5630559Z",
+    "@mt": "Now listening on: {address}",
+    "address": "http://localhost:5038",
+    "EventId": {
+        "Id": 14,
+        "Name": "ListeningOnAddress"
+    },
+    "SourceContext": "Microsoft.Hosting.Lifetime"
+}
+{
+    "@t": "2022-12-28T03:57:41.5635017Z",
+    "@mt": "Loaded hosting startup assembly {assemblyName}",
+    "@l": "Debug",
+    "assemblyName": "ConsultorioLegal",
+    "EventId": {
+        "Id": 13,
+        "Name": "HostingStartupAssemblyLoaded"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics"
+}
+{
+    "@t": "2022-12-28T03:57:50.2511836Z",
+    "@mt": "Connection {connectionId} established using the following protocol: {protocol}",
+    "@l": "Debug",
+    "connectionId": "0HMN8GUO4EA80",
+    "protocol": "Tls13",
+    "EventId": {
+        "Id": 3,
+        "Name": "HttpsConnectionEstablished"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware"
+}
+{
+    "@t": "2022-12-28T03:57:50.2947423Z",
+    "@mt": "{HostingRequestStartingLog:l}",
+    "@r": [
+        "Request starting HTTP/2 GET https://localhost:7118/api/Clientes - -"
+    ],
+    "Protocol": "HTTP/2",
+    "Method": "GET",
+    "ContentType": null,
+    "ContentLength": null,
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/api/Clientes",
+    "QueryString": "",
+    "HostingRequestStartingLog": "Request starting HTTP/2 GET https://localhost:7118/api/Clientes - -",
+    "EventId": {
+        "Id": 1
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8GUO4EA80:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:57:50.2994561Z",
+    "@mt": "Wildcard detected, all requests with hosts will be allowed.",
+    "@l": "Debug",
+    "EventId": {
+        "Name": "WildcardDetected"
+    },
+    "SourceContext": "Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware",
+    "RequestId": "0HMN8GUO4EA80:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:57:50.3271099Z",
+    "@mt": "{CandidateCount} candidate(s) found for the request path '{Path}'",
+    "@l": "Debug",
+    "CandidateCount": 1,
+    "Path": "/api/Clientes",
+    "EventId": {
+        "Id": 1001,
+        "Name": "CandidatesFound"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.Matching.DfaMatcher",
+    "RequestId": "0HMN8GUO4EA80:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:57:50.3289890Z",
+    "@mt": "Endpoint '{Endpoint}' with route pattern '{RoutePattern}' is valid for the request path '{Path}'",
+    "@l": "Debug",
+    "Endpoint": "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+    "RoutePattern": "api/Clientes",
+    "Path": "/api/Clientes",
+    "EventId": {
+        "Id": 1005,
+        "Name": "CandidateValid"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.Matching.DfaMatcher",
+    "RequestId": "0HMN8GUO4EA80:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:57:50.3295369Z",
+    "@mt": "Request matched endpoint '{EndpointName}'",
+    "@l": "Debug",
+    "EndpointName": "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+    "EventId": {
+        "Id": 1,
+        "Name": "MatchSuccess"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware",
+    "RequestId": "0HMN8GUO4EA80:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:57:50.3758600Z",
+    "@mt": "FluentValidationRules Created",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8GUO4EA80:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:57:50.3834176Z",
+    "@mt": "Static files was skipped as the request already matched an endpoint.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 15,
+        "Name": "EndpointMatched"
+    },
+    "SourceContext": "Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware",
+    "RequestId": "0HMN8GUO4EA80:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:57:50.3865900Z",
+    "@mt": "Executing endpoint '{EndpointName}'",
+    "EndpointName": "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+    "EventId": {
+        "Name": "ExecutingEndpoint"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointMiddleware",
+    "RequestId": "0HMN8GUO4EA80:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:57:50.4710418Z",
+    "@mt": "Executed endpoint '{EndpointName}'",
+    "EndpointName": "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+    "EventId": {
+        "Id": 1,
+        "Name": "ExecutedEndpoint"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointMiddleware",
+    "ActionId": "b9a4e734-597c-4bbf-bab6-c0b91b537d30",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+    "RequestId": "0HMN8GUO4EA80:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:57:50.4716409Z",
+    "@mt": "An unhandled exception has occurred while executing the request.",
+    "@l": "Error",
+    "@x": "System.Exception: Erro de teste\r\n   at src.api.UI.Controllers.ClientesController.Get() in C:\\Users\\alexc\\Documents\\dev\\ConsultorioLegal\\src\\api\\UI\\Controllers\\ClientesController.cs:line 30\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()\r\n--- End of stack trace from previous location ---\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\r\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\r\n   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)\r\n   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)\r\n   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)\r\n   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)\r\n   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)",
+    "EventId": {
+        "Id": 1,
+        "Name": "UnhandledException"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware",
+    "RequestId": "0HMN8GUO4EA80:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:57:50.4936264Z",
+    "@mt": "{HostingRequestFinishedLog:l}",
+    "@r": [
+        "Request finished HTTP/2 GET https://localhost:7118/api/Clientes - - - 500 - text/plain;+charset=utf-8 201.4267ms"
+    ],
+    "ElapsedMilliseconds": 201.4267,
+    "StatusCode": 500,
+    "ContentType": "text/plain; charset=utf-8",
+    "ContentLength": null,
+    "Protocol": "HTTP/2",
+    "Method": "GET",
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/api/Clientes",
+    "QueryString": "",
+    "HostingRequestFinishedLog": "Request finished HTTP/2 GET https://localhost:7118/api/Clientes - - - 500 - text/plain;+charset=utf-8 201.4267ms",
+    "EventId": {
+        "Id": 2
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8GUO4EA80:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T03:58:38.1676577Z",
+    "@mt": "Connection id \"{ConnectionId}\" received FIN.",
+    "@l": "Debug",
+    "ConnectionId": "0HMN8GUO4EA80",
+    "EventId": {
+        "Id": 6,
+        "Name": "ConnectionReadFin"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets"
+}
+{
+    "@t": "2022-12-28T03:58:38.1719564Z",
+    "@mt": "Connection id \"{ConnectionId}\" sending FIN because: \"{Reason}\"",
+    "@l": "Debug",
+    "ConnectionId": "0HMN8GUO4EA80",
+    "Reason": "The client closed the connection.",
+    "EventId": {
+        "Id": 7,
+        "Name": "ConnectionWriteFin"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets"
+}
+{
+    "@t": "2022-12-28T03:59:47.1567221Z",
+    "@mt": "Iniciando o WebApi"
+}
+{
+    "@t": "2022-12-28T03:59:47.2807909Z",
+    "@mt": "Now listening on: {address}",
+    "address": "https://localhost:7118",
+    "EventId": {
+        "Id": 14,
+        "Name": "ListeningOnAddress"
+    },
+    "SourceContext": "Microsoft.Hosting.Lifetime"
+}
+{
+    "@t": "2022-12-28T03:59:47.2845024Z",
+    "@mt": "Now listening on: {address}",
+    "address": "http://localhost:5038",
+    "EventId": {
+        "Id": 14,
+        "Name": "ListeningOnAddress"
+    },
+    "SourceContext": "Microsoft.Hosting.Lifetime"
+}
+{
+    "@t": "2022-12-28T03:59:47.2847064Z",
+    "@mt": "Loaded hosting startup assembly {assemblyName}",
+    "@l": "Debug",
+    "assemblyName": "ConsultorioLegal",
+    "EventId": {
+        "Id": 13,
+        "Name": "HostingStartupAssemblyLoaded"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics"
+}
+{
+    "@t": "2022-12-28T04:01:22.8222310Z",
+    "@mt": "Iniciando o WebApi"
+}
+{
+    "@t": "2022-12-28T04:01:22.8984560Z",
+    "@mt": "Now listening on: {address}",
+    "address": "https://localhost:7118",
+    "EventId": {
+        "Id": 14,
+        "Name": "ListeningOnAddress"
+    },
+    "SourceContext": "Microsoft.Hosting.Lifetime"
+}
+{
+    "@t": "2022-12-28T04:01:22.8996294Z",
+    "@mt": "Now listening on: {address}",
+    "address": "http://localhost:5038",
+    "EventId": {
+        "Id": 14,
+        "Name": "ListeningOnAddress"
+    },
+    "SourceContext": "Microsoft.Hosting.Lifetime"
+}
+{
+    "@t": "2022-12-28T04:01:22.8998275Z",
+    "@mt": "Loaded hosting startup assembly {assemblyName}",
+    "@l": "Debug",
+    "assemblyName": "ConsultorioLegal",
+    "EventId": {
+        "Id": 13,
+        "Name": "HostingStartupAssemblyLoaded"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics"
+}
+{
+    "@t": "2022-12-28T04:01:24.5633614Z",
+    "@mt": "Connection {connectionId} established using the following protocol: {protocol}",
+    "@l": "Debug",
+    "connectionId": "0HMN8H0O06KBK",
+    "protocol": "Tls13",
+    "EventId": {
+        "Id": 3,
+        "Name": "HttpsConnectionEstablished"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware"
+}
+{
+    "@t": "2022-12-28T04:01:24.6146573Z",
+    "@mt": "{HostingRequestStartingLog:l}",
+    "@r": [
+        "Request starting HTTP/2 GET https://localhost:7118/index.html - -"
+    ],
+    "Protocol": "HTTP/2",
+    "Method": "GET",
+    "ContentType": null,
+    "ContentLength": null,
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/index.html",
+    "QueryString": "",
+    "HostingRequestStartingLog": "Request starting HTTP/2 GET https://localhost:7118/index.html - -",
+    "EventId": {
+        "Id": 1
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8H0O06KBK:00000001",
+    "RequestPath": "/index.html"
+}
+{
+    "@t": "2022-12-28T04:01:24.6205521Z",
+    "@mt": "Wildcard detected, all requests with hosts will be allowed.",
+    "@l": "Debug",
+    "EventId": {
+        "Name": "WildcardDetected"
+    },
+    "SourceContext": "Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware",
+    "RequestId": "0HMN8H0O06KBK:00000001",
+    "RequestPath": "/index.html"
+}
+{
+    "@t": "2022-12-28T04:01:24.6424765Z",
+    "@mt": "No candidates found for the request path '{Path}'",
+    "@l": "Debug",
+    "Path": "/index.html",
+    "EventId": {
+        "Id": 1000,
+        "Name": "CandidatesNotFound"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.Matching.DfaMatcher",
+    "RequestId": "0HMN8H0O06KBK:00000001",
+    "RequestPath": "/index.html"
+}
+{
+    "@t": "2022-12-28T04:01:24.6433502Z",
+    "@mt": "Request did not match any endpoints",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 2,
+        "Name": "MatchFailure"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware",
+    "RequestId": "0HMN8H0O06KBK:00000001",
+    "RequestPath": "/index.html"
+}
+{
+    "@t": "2022-12-28T04:01:24.6950266Z",
+    "@mt": "FluentValidationRules Created",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000001",
+    "RequestPath": "/index.html"
+}
+{
+    "@t": "2022-12-28T04:01:24.7952445Z",
+    "@mt": "{HostingRequestFinishedLog:l}",
+    "@r": [
+        "Request finished HTTP/2 GET https://localhost:7118/index.html - - - 200 - text/html;charset=utf-8 182.1093ms"
+    ],
+    "ElapsedMilliseconds": 182.1093,
+    "StatusCode": 200,
+    "ContentType": "text/html;charset=utf-8",
+    "ContentLength": null,
+    "Protocol": "HTTP/2",
+    "Method": "GET",
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/index.html",
+    "QueryString": "",
+    "HostingRequestFinishedLog": "Request finished HTTP/2 GET https://localhost:7118/index.html - - - 200 - text/html;charset=utf-8 182.1093ms",
+    "EventId": {
+        "Id": 2
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8H0O06KBK:00000001",
+    "RequestPath": "/index.html"
+}
+{
+    "@t": "2022-12-28T04:01:25.0052407Z",
+    "@mt": "{HostingRequestStartingLog:l}",
+    "@r": [
+        "Request starting HTTP/2 GET https://localhost:7118/swagger/v1/swagger.json - -"
+    ],
+    "Protocol": "HTTP/2",
+    "Method": "GET",
+    "ContentType": null,
+    "ContentLength": null,
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/swagger/v1/swagger.json",
+    "QueryString": "",
+    "HostingRequestStartingLog": "Request starting HTTP/2 GET https://localhost:7118/swagger/v1/swagger.json - -",
+    "EventId": {
+        "Id": 1
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.0056951Z",
+    "@mt": "No candidates found for the request path '{Path}'",
+    "@l": "Debug",
+    "Path": "/swagger/v1/swagger.json",
+    "EventId": {
+        "Id": 1000,
+        "Name": "CandidatesNotFound"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.Matching.DfaMatcher",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.0057567Z",
+    "@mt": "Request did not match any endpoints",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 2,
+        "Name": "MatchFailure"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2148748Z",
+    "@mt": "Applying FluentValidation rules to swagger schema 'NovoCliente'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2186248Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2200957Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2214280Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'NovoCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2224863Z",
+    "@mt": "Rule 'Length' applied for property 'NovoCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2230906Z",
+    "@mt": "Rule 'Length' applied for property 'NovoCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2238617Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2240419Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2245463Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'NovoCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2260554Z",
+    "@mt": "Rule 'Comparison' applied for property 'NovoCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2261667Z",
+    "@mt": "Rule 'Comparison' applied for property 'NovoCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2266092Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.sexo'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2267072Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.sexo'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2271109Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'NovoCliente.sexo'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2273110Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2273472Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2276485Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'NovoCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2283970Z",
+    "@mt": "Rule 'Pattern' applied for property 'NovoCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2285313Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2285650Z",
+    "@mt": "Rule 'Required' applied for property 'NovoCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2289418Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'NovoCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2293252Z",
+    "@mt": "Rule 'Length' applied for property 'NovoCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2297047Z",
+    "@mt": "Rule 'Length' applied for property 'NovoCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2542435Z",
+    "@mt": "Applying FluentValidation rules to swagger schema 'AlteraCliente'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2547672Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.id'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2554800Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.id'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2556012Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.id'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2589425Z",
+    "@mt": "Rule 'Comparison' applied for property 'AlteraCliente.id'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2613534Z",
+    "@mt": "Applying FluentValidation rules to swagger schema 'AlteraCliente'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2614596Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2614967Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2619917Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2623914Z",
+    "@mt": "Rule 'Length' applied for property 'AlteraCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2626409Z",
+    "@mt": "Rule 'Length' applied for property 'AlteraCliente.nome'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2628267Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2628531Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2632389Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2634284Z",
+    "@mt": "Rule 'Comparison' applied for property 'AlteraCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2634710Z",
+    "@mt": "Rule 'Comparison' applied for property 'AlteraCliente.dataNascimento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2638646Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.sexo'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2639193Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.sexo'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2649489Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.sexo'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2654576Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2657608Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2673209Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2676739Z",
+    "@mt": "Rule 'Pattern' applied for property 'AlteraCliente.telefone'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2677996Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2678305Z",
+    "@mt": "Rule 'Required' applied for property 'AlteraCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2683701Z",
+    "@mt": "Rule 'NotEmpty' applied for property 'AlteraCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2692093Z",
+    "@mt": "Rule 'Length' applied for property 'AlteraCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.2705915Z",
+    "@mt": "Rule 'Length' applied for property 'AlteraCliente.documento'.",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:25.3228892Z",
+    "@mt": "{HostingRequestFinishedLog:l}",
+    "@r": [
+        "Request finished HTTP/2 GET https://localhost:7118/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 317.7388ms"
+    ],
+    "ElapsedMilliseconds": 317.7388,
+    "StatusCode": 200,
+    "ContentType": "application/json;charset=utf-8",
+    "ContentLength": null,
+    "Protocol": "HTTP/2",
+    "Method": "GET",
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/swagger/v1/swagger.json",
+    "QueryString": "",
+    "HostingRequestFinishedLog": "Request finished HTTP/2 GET https://localhost:7118/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 317.7388ms",
+    "EventId": {
+        "Id": 2
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8H0O06KBK:00000003",
+    "RequestPath": "/swagger/v1/swagger.json"
+}
+{
+    "@t": "2022-12-28T04:01:29.9476023Z",
+    "@mt": "{HostingRequestStartingLog:l}",
+    "@r": [
+        "Request starting HTTP/2 POST https://localhost:7118/api/Clientes application/json 135"
+    ],
+    "Protocol": "HTTP/2",
+    "Method": "POST",
+    "ContentType": "application/json",
+    "ContentLength": 135,
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/api/Clientes",
+    "QueryString": "",
+    "HostingRequestStartingLog": "Request starting HTTP/2 POST https://localhost:7118/api/Clientes application/json 135",
+    "EventId": {
+        "Id": 1
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:29.9530417Z",
+    "@mt": "{CandidateCount} candidate(s) found for the request path '{Path}'",
+    "@l": "Debug",
+    "CandidateCount": 1,
+    "Path": "/api/Clientes",
+    "EventId": {
+        "Id": 1001,
+        "Name": "CandidatesFound"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.Matching.DfaMatcher",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:29.9567028Z",
+    "@mt": "Endpoint '{Endpoint}' with route pattern '{RoutePattern}' is valid for the request path '{Path}'",
+    "@l": "Debug",
+    "Endpoint": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RoutePattern": "api/Clientes",
+    "Path": "/api/Clientes",
+    "EventId": {
+        "Id": 1005,
+        "Name": "CandidateValid"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.Matching.DfaMatcher",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:29.9579469Z",
+    "@mt": "Request matched endpoint '{EndpointName}'",
+    "@l": "Debug",
+    "EndpointName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "EventId": {
+        "Id": 1,
+        "Name": "MatchSuccess"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:29.9613974Z",
+    "@mt": "Static files was skipped as the request already matched an endpoint.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 15,
+        "Name": "EndpointMatched"
+    },
+    "SourceContext": "Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:29.9658567Z",
+    "@mt": "Executing endpoint '{EndpointName}'",
+    "EndpointName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "EventId": {
+        "Name": "ExecutingEndpoint"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointMiddleware",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.0850503Z",
+    "@mt": "Attempting to bind parameter '{ParameterName}' of type '{ModelType}' using the name '{ModelName}' in request data ...",
+    "@l": "Debug",
+    "ParameterName": "novoCliente",
+    "ModelType": "ConsultorioLegal.api.UI.ModelView.NovoCliente",
+    "ModelName": "",
+    "EventId": {
+        "Id": 44,
+        "Name": "AttemptingToBindParameterModel"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.0893884Z",
+    "@mt": "Selected input formatter '{InputFormatter}' for content type '{ContentType}'.",
+    "@l": "Debug",
+    "InputFormatter": "Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter",
+    "ContentType": "application/json",
+    "EventId": {
+        "Id": 1,
+        "Name": "InputFormatterSelected"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.1104620Z",
+    "@mt": "Done attempting to bind parameter '{ParameterName}' of type '{ModelType}'.",
+    "@l": "Debug",
+    "ParameterName": "novoCliente",
+    "ModelType": "ConsultorioLegal.api.UI.ModelView.NovoCliente",
+    "EventId": {
+        "Id": 45,
+        "Name": "DoneAttemptingToBindParameterModel"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.1474127Z",
+    "@mt": "Objeto recebido {@novoCliente}",
+    "SourceContext": "src.api.UI.Controllers.ClientesController",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.1482079Z",
+    "@mt": "Foi requisitada a inserção de um novo cliente.",
+    "SourceContext": "src.api.UI.Controllers.ClientesController",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.1775123Z",
+    "@mt": "Entity Framework Core {version} initialized '{contextType}' using provider '{provider}:{providerVersion}' with options: {options}",
+    "version": "6.0.8",
+    "contextType": "DataContext",
+    "provider": "Microsoft.EntityFrameworkCore.Sqlite",
+    "providerVersion": "6.0.8",
+    "options": "None",
+    "EventId": {
+        "Id": 10403,
+        "Name": "Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Infrastructure",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.2268032Z",
+    "@mt": "'{contextType}' generated a temporary value for the property '{2_entityType}.{1_property}'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "2_entityType": "Id",
+    "1_property": "Cliente",
+    "EventId": {
+        "Id": 10808,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.ValueGenerated"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.2902900Z",
+    "@mt": "Context '{contextType}' started tracking '{entityType}' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "entityType": "Cliente",
+    "EventId": {
+        "Id": 10806,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.StartedTracking"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.2963034Z",
+    "@mt": "SaveChanges starting for '{contextType}'.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "EventId": {
+        "Id": 10004,
+        "Name": "Microsoft.EntityFrameworkCore.Update.SaveChangesStarting"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Update",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.3009406Z",
+    "@mt": "DetectChanges starting for '{contextType}'.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "EventId": {
+        "Id": 10800,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.DetectChangesStarting"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.3130907Z",
+    "@mt": "DetectChanges completed for '{contextType}'.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "EventId": {
+        "Id": 10801,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.DetectChangesCompleted"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.3267153Z",
+    "@mt": "Opening connection to database '{database}' on server '{server}'.",
+    "@l": "Debug",
+    "database": "main",
+    "server": "consultorio_legal.db",
+    "EventId": {
+        "Id": 20000,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Connection.ConnectionOpening"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Connection",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.3286053Z",
+    "@mt": "Opened connection to database '{database}' on server '{server}'.",
+    "@l": "Debug",
+    "database": "main",
+    "server": "C:\\Users\\alexc\\Documents\\dev\\ConsultorioLegal\\src\\consultorio_legal.db",
+    "EventId": {
+        "Id": 20001,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Connection.ConnectionOpened"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Connection",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.3298802Z",
+    "@mt": "Beginning transaction with isolation level '{isolationLevel}'.",
+    "@l": "Debug",
+    "isolationLevel": "Unspecified",
+    "EventId": {
+        "Id": 20209,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Transaction.TransactionStarting"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Transaction",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.3350223Z",
+    "@mt": "Began transaction with isolation level '{isolationLevel}'.",
+    "@l": "Debug",
+    "isolationLevel": "Serializable",
+    "EventId": {
+        "Id": 20200,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Transaction.TransactionStarted"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Transaction",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.3694416Z",
+    "@mt": "Creating DbCommand for '{executionType}'.",
+    "@l": "Debug",
+    "executionType": "ExecuteReader",
+    "EventId": {
+        "Id": 20103,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Command.CommandCreating"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Command",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.3729316Z",
+    "@mt": "Created DbCommand for '{executionType}' ({elapsed}ms).",
+    "@l": "Debug",
+    "executionType": "ExecuteReader",
+    "elapsed": 0,
+    "EventId": {
+        "Id": 20104,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Command.CommandCreated"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Command",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.3820796Z",
+    "@mt": "Executing DbCommand [Parameters=[{parameters}], CommandType='{commandType}', CommandTimeout='{commandTimeout}']{newLine}{commandText}",
+    "@l": "Debug",
+    "parameters": "@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (Size = 10), @p3='?' (Size = 10), @p4='?', @p5='?' (Size = 12), @p6='?' (DbType = DateTime)",
+    "commandType": "Text",
+    "commandTimeout": 30,
+    "newLine": "\r\n",
+    "commandText": "INSERT INTO \"Clientes\" (\"Criacao\", \"DataNascimento\", \"Documento\", \"Nome\", \"Sexo\", \"Telefone\", \"UltimaAlteracao\")\r\nVALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);\r\nSELECT \"Id\"\r\nFROM \"Clientes\"\r\nWHERE changes() = 1 AND \"rowid\" = last_insert_rowid();",
+    "EventId": {
+        "Id": 20100,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Command.CommandExecuting"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Command",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.3979155Z",
+    "@mt": "Executed DbCommand ({elapsed}ms) [Parameters=[{parameters}], CommandType='{commandType}', CommandTimeout='{commandTimeout}']{newLine}{commandText}",
+    "elapsed": "18",
+    "parameters": "@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (Size = 10), @p3='?' (Size = 10), @p4='?', @p5='?' (Size = 12), @p6='?' (DbType = DateTime)",
+    "commandType": "Text",
+    "commandTimeout": 30,
+    "newLine": "\r\n",
+    "commandText": "INSERT INTO \"Clientes\" (\"Criacao\", \"DataNascimento\", \"Documento\", \"Nome\", \"Sexo\", \"Telefone\", \"UltimaAlteracao\")\r\nVALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);\r\nSELECT \"Id\"\r\nFROM \"Clientes\"\r\nWHERE changes() = 1 AND \"rowid\" = last_insert_rowid();",
+    "EventId": {
+        "Id": 20101,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Command",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.4230569Z",
+    "@mt": "The foreign key property '{entityType}.{property}' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.",
+    "@l": "Debug",
+    "entityType": "Cliente",
+    "property": "Id",
+    "EventId": {
+        "Id": 10803,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.ForeignKeyChangeDetected"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.4268876Z",
+    "@mt": "A data reader was disposed.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 20300,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Command.DataReaderDisposing"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Command",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.4298036Z",
+    "@mt": "Committing transaction.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 20210,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Transaction.TransactionCommitting"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Transaction",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.4378723Z",
+    "@mt": "Committed transaction.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 20202,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Transaction.TransactionCommitted"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Transaction",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.4402286Z",
+    "@mt": "Closing connection to database '{database}' on server '{server}'.",
+    "@l": "Debug",
+    "database": "main",
+    "server": "C:\\Users\\alexc\\Documents\\dev\\ConsultorioLegal\\src\\consultorio_legal.db",
+    "EventId": {
+        "Id": 20002,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Connection.ConnectionClosing"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Connection",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.4406935Z",
+    "@mt": "Closed connection to database '{database}' on server '{server}'.",
+    "@l": "Debug",
+    "database": "main",
+    "server": "consultorio_legal.db",
+    "EventId": {
+        "Id": 20003,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Connection.ConnectionClosed"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Connection",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.4423169Z",
+    "@mt": "Disposing transaction.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 20204,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Transaction.TransactionDisposed"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Transaction",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.4513879Z",
+    "@mt": "An entity of type '{entityType}' tracked by '{contextType}' changed state from '{oldState}' to '{newState}'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.",
+    "@l": "Debug",
+    "entityType": "Cliente",
+    "contextType": "DataContext",
+    "oldState": "Added",
+    "newState": "Unchanged",
+    "EventId": {
+        "Id": 10807,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.StateChanged"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.4532453Z",
+    "@mt": "SaveChanges completed for '{contextType}' with {savedCount} entities written to the database.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "savedCount": 1,
+    "EventId": {
+        "Id": 10005,
+        "Name": "Microsoft.EntityFrameworkCore.Update.SaveChangesCompleted"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Update",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa"
+}
+{
+    "@t": "2022-12-28T04:01:30.4546481Z",
+    "@mt": "Tempo de adição de um novo cliente. {Outcome} in {Elapsed:0.0} ms",
+    "@r": [
+        "305.9"
+    ],
+    "Outcome": "completed",
+    "Elapsed": 305.8663,
+    "OperationId": "879f72db-d796-47b2-9b96-67c1e1dd61fa",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.4583956Z",
+    "@mt": "List of registered output formatters, in the following order: {OutputFormatters}",
+    "@l": "Debug",
+    "OutputFormatters": [
+        "Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter",
+        "Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter",
+        "Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter",
+        "Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"
+    ],
+    "EventId": {
+        "Id": 11,
+        "Name": "RegisteredOutputFormatters"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.4612357Z",
+    "@mt": "Attempting to select an output formatter based on Accept header '{AcceptHeader}'.",
+    "@l": "Debug",
+    "AcceptHeader": [
+        "text/plain"
+    ],
+    "EventId": {
+        "Id": 6,
+        "Name": "SelectingOutputFormatterUsingAcceptHeader"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.4620719Z",
+    "@mt": "Could not find an output formatter based on content negotiation. Accepted types were ({AcceptTypes})",
+    "@l": "Debug",
+    "AcceptTypes": [
+        "text/plain"
+    ],
+    "EventId": {
+        "Id": 5,
+        "Name": "NoFormatterFromNegotiation"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.4622378Z",
+    "@mt": "Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 8,
+        "Name": "SelectingOutputFormatterWithoutUsingContentTypes"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.4622896Z",
+    "@mt": "Attempting to select the first formatter in the output formatters list which can write the result.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 10,
+        "Name": "SelectingFirstCanWriteFormatter"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.4630541Z",
+    "@mt": "Selected output formatter '{OutputFormatter}' and content type '{ContentType}' to write the response.",
+    "@l": "Debug",
+    "OutputFormatter": "Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter",
+    "ContentType": "application/json",
+    "EventId": {
+        "Id": 2,
+        "Name": "FormatterSelected"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.4633953Z",
+    "@mt": "Executing {ObjectResultType}, writing value of type '{Type}'.",
+    "ObjectResultType": "CreatedAtActionResult",
+    "Type": "src.api.Domain.Entities.Cliente",
+    "EventId": {
+        "Id": 1,
+        "Name": "ObjectResultExecuting"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.4862418Z",
+    "@mt": "Found the endpoints {Endpoints} for address {Address}",
+    "@l": "Debug",
+    "Endpoints": [
+        "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+        "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)"
+    ],
+    "Address": "(id=[10],action=[Get],controller=[Clientes])",
+    "EventId": {
+        "Id": 100,
+        "Name": "EndpointsFound"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.DefaultLinkGenerator",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.4919792Z",
+    "@mt": "Successfully processed template {Template} for {Endpoint} resulting in {Path} and {Query}",
+    "@l": "Debug",
+    "Template": "api/Clientes/{id}",
+    "Endpoint": "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+    "Path": "/api/Clientes/10",
+    "Query": "",
+    "EventId": {
+        "Id": 102,
+        "Name": "TemplateSucceeded"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.DefaultLinkGenerator",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.4931217Z",
+    "@mt": "Link generation succeeded for endpoints {Endpoints} with result {URI}",
+    "@l": "Debug",
+    "Endpoints": [
+        "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)",
+        "src.api.UI.Controllers.ClientesController.Get (ConsultorioLegal)"
+    ],
+    "URI": "/api/Clientes/10",
+    "EventId": {
+        "Id": 105,
+        "Name": "LinkGenerationSucceeded"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.DefaultLinkGenerator",
+    "ActionId": "d63fabb4-4a25-4b50-a5f5-f4140c461218",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.5069881Z",
+    "@mt": "Executed endpoint '{EndpointName}'",
+    "EndpointName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "EventId": {
+        "Id": 1,
+        "Name": "ExecutedEndpoint"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointMiddleware",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.5085994Z",
+    "@mt": "'{contextType}' disposed.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "EventId": {
+        "Id": 10407,
+        "Name": "Microsoft.EntityFrameworkCore.Infrastructure.ContextDisposed"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Infrastructure",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:01:30.5114206Z",
+    "@mt": "{HostingRequestFinishedLog:l}",
+    "@r": [
+        "Request finished HTTP/2 POST https://localhost:7118/api/Clientes application/json 135 - 201 - application/json;+charset=utf-8 563.7645ms"
+    ],
+    "ElapsedMilliseconds": 563.7645,
+    "StatusCode": 201,
+    "ContentType": "application/json; charset=utf-8",
+    "ContentLength": null,
+    "Protocol": "HTTP/2",
+    "Method": "POST",
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/api/Clientes",
+    "QueryString": "",
+    "HostingRequestFinishedLog": "Request finished HTTP/2 POST https://localhost:7118/api/Clientes application/json 135 - 201 - application/json;+charset=utf-8 563.7645ms",
+    "EventId": {
+        "Id": 2
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8H0O06KBK:00000005",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:41.1249203Z",
+    "@mt": "Connection id \"{ConnectionId}\" received FIN.",
+    "@l": "Debug",
+    "ConnectionId": "0HMN8H0O06KBK",
+    "EventId": {
+        "Id": 6,
+        "Name": "ConnectionReadFin"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets"
+}
+{
+    "@t": "2022-12-28T04:03:41.1255493Z",
+    "@mt": "Connection id \"{ConnectionId}\" sending FIN because: \"{Reason}\"",
+    "@l": "Debug",
+    "ConnectionId": "0HMN8H0O06KBK",
+    "Reason": "The client closed the connection.",
+    "EventId": {
+        "Id": 7,
+        "Name": "ConnectionWriteFin"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets"
+}
+{
+    "@t": "2022-12-28T04:03:48.8508380Z",
+    "@mt": "Iniciando o WebApi"
+}
+{
+    "@t": "2022-12-28T04:03:48.9413531Z",
+    "@mt": "Now listening on: {address}",
+    "address": "https://localhost:7118",
+    "EventId": {
+        "Id": 14,
+        "Name": "ListeningOnAddress"
+    },
+    "SourceContext": "Microsoft.Hosting.Lifetime"
+}
+{
+    "@t": "2022-12-28T04:03:48.9430672Z",
+    "@mt": "Now listening on: {address}",
+    "address": "http://localhost:5038",
+    "EventId": {
+        "Id": 14,
+        "Name": "ListeningOnAddress"
+    },
+    "SourceContext": "Microsoft.Hosting.Lifetime"
+}
+{
+    "@t": "2022-12-28T04:03:48.9432045Z",
+    "@mt": "Loaded hosting startup assembly {assemblyName}",
+    "@l": "Debug",
+    "assemblyName": "ConsultorioLegal",
+    "EventId": {
+        "Id": 13,
+        "Name": "HostingStartupAssemblyLoaded"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics"
+}
+{
+    "@t": "2022-12-28T04:03:56.9109425Z",
+    "@mt": "Connection {connectionId} established using the following protocol: {protocol}",
+    "@l": "Debug",
+    "connectionId": "0HMN8H25D85R0",
+    "protocol": "Tls13",
+    "EventId": {
+        "Id": 3,
+        "Name": "HttpsConnectionEstablished"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware"
+}
+{
+    "@t": "2022-12-28T04:03:56.9624129Z",
+    "@mt": "{HostingRequestStartingLog:l}",
+    "@r": [
+        "Request starting HTTP/2 POST https://localhost:7118/api/Clientes application/json 135"
+    ],
+    "Protocol": "HTTP/2",
+    "Method": "POST",
+    "ContentType": "application/json",
+    "ContentLength": 135,
+    "Scheme": "https",
+    "Host": "localhost:7118",
+    "PathBase": "",
+    "Path": "/api/Clientes",
+    "QueryString": "",
+    "HostingRequestStartingLog": "Request starting HTTP/2 POST https://localhost:7118/api/Clientes application/json 135",
+    "EventId": {
+        "Id": 1
+    },
+    "SourceContext": "Microsoft.AspNetCore.Hosting.Diagnostics",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:56.9675776Z",
+    "@mt": "Wildcard detected, all requests with hosts will be allowed.",
+    "@l": "Debug",
+    "EventId": {
+        "Name": "WildcardDetected"
+    },
+    "SourceContext": "Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:56.9941174Z",
+    "@mt": "{CandidateCount} candidate(s) found for the request path '{Path}'",
+    "@l": "Debug",
+    "CandidateCount": 1,
+    "Path": "/api/Clientes",
+    "EventId": {
+        "Id": 1001,
+        "Name": "CandidatesFound"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.Matching.DfaMatcher",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:56.9968833Z",
+    "@mt": "Endpoint '{Endpoint}' with route pattern '{RoutePattern}' is valid for the request path '{Path}'",
+    "@l": "Debug",
+    "Endpoint": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RoutePattern": "api/Clientes",
+    "Path": "/api/Clientes",
+    "EventId": {
+        "Id": 1005,
+        "Name": "CandidateValid"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.Matching.DfaMatcher",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:56.9981543Z",
+    "@mt": "Request matched endpoint '{EndpointName}'",
+    "@l": "Debug",
+    "EndpointName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "EventId": {
+        "Id": 1,
+        "Name": "MatchSuccess"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.0503038Z",
+    "@mt": "FluentValidationRules Created",
+    "@l": "Debug",
+    "SourceContext": "MicroElements.Swashbuckle.FluentValidation.FluentValidationRules",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.0540204Z",
+    "@mt": "Static files was skipped as the request already matched an endpoint.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 15,
+        "Name": "EndpointMatched"
+    },
+    "SourceContext": "Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.0577047Z",
+    "@mt": "Executing endpoint '{EndpointName}'",
+    "EndpointName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "EventId": {
+        "Name": "ExecutingEndpoint"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Routing.EndpointMiddleware",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.1752328Z",
+    "@mt": "Attempting to bind parameter '{ParameterName}' of type '{ModelType}' using the name '{ModelName}' in request data ...",
+    "@l": "Debug",
+    "ParameterName": "novoCliente",
+    "ModelType": "ConsultorioLegal.api.UI.ModelView.NovoCliente",
+    "ModelName": "",
+    "EventId": {
+        "Id": 44,
+        "Name": "AttemptingToBindParameterModel"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.1794708Z",
+    "@mt": "Selected input formatter '{InputFormatter}' for content type '{ContentType}'.",
+    "@l": "Debug",
+    "InputFormatter": "Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter",
+    "ContentType": "application/json",
+    "EventId": {
+        "Id": 1,
+        "Name": "InputFormatterSelected"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.2220840Z",
+    "@mt": "Done attempting to bind parameter '{ParameterName}' of type '{ModelType}'.",
+    "@l": "Debug",
+    "ParameterName": "novoCliente",
+    "ModelType": "ConsultorioLegal.api.UI.ModelView.NovoCliente",
+    "EventId": {
+        "Id": 45,
+        "Name": "DoneAttemptingToBindParameterModel"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.2873486Z",
+    "@mt": "Objeto recebido {@novoCliente}",
+    "novoCliente": {
+        "Nome": "João Costa",
+        "DataNascimento": "1988-01-01T00:00:00.0000000",
+        "Sexo": "M",
+        "Telefone": "17-999990000",
+        "Documento": "1232233422",
+        "$type": "NovoCliente"
+    },
+    "SourceContext": "src.api.UI.Controllers.ClientesController",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.2879931Z",
+    "@mt": "Foi requisitada a inserção de um novo cliente.",
+    "SourceContext": "src.api.UI.Controllers.ClientesController",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.3143269Z",
+    "@mt": "Entity Framework Core {version} initialized '{contextType}' using provider '{provider}:{providerVersion}' with options: {options}",
+    "version": "6.0.8",
+    "contextType": "DataContext",
+    "provider": "Microsoft.EntityFrameworkCore.Sqlite",
+    "providerVersion": "6.0.8",
+    "options": "None",
+    "EventId": {
+        "Id": 10403,
+        "Name": "Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Infrastructure",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.3429256Z",
+    "@mt": "'{contextType}' generated a temporary value for the property '{2_entityType}.{1_property}'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "2_entityType": "Id",
+    "1_property": "Cliente",
+    "EventId": {
+        "Id": 10808,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.ValueGenerated"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.3969542Z",
+    "@mt": "Context '{contextType}' started tracking '{entityType}' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "entityType": "Cliente",
+    "EventId": {
+        "Id": 10806,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.StartedTracking"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.4018972Z",
+    "@mt": "SaveChanges starting for '{contextType}'.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "EventId": {
+        "Id": 10004,
+        "Name": "Microsoft.EntityFrameworkCore.Update.SaveChangesStarting"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Update",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.4045167Z",
+    "@mt": "DetectChanges starting for '{contextType}'.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "EventId": {
+        "Id": 10800,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.DetectChangesStarting"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.4183825Z",
+    "@mt": "DetectChanges completed for '{contextType}'.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "EventId": {
+        "Id": 10801,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.DetectChangesCompleted"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.4349001Z",
+    "@mt": "Opening connection to database '{database}' on server '{server}'.",
+    "@l": "Debug",
+    "database": "main",
+    "server": "consultorio_legal.db",
+    "EventId": {
+        "Id": 20000,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Connection.ConnectionOpening"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Connection",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.4378656Z",
+    "@mt": "Opened connection to database '{database}' on server '{server}'.",
+    "@l": "Debug",
+    "database": "main",
+    "server": "C:\\Users\\alexc\\Documents\\dev\\ConsultorioLegal\\src\\consultorio_legal.db",
+    "EventId": {
+        "Id": 20001,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Connection.ConnectionOpened"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Connection",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.4397951Z",
+    "@mt": "Beginning transaction with isolation level '{isolationLevel}'.",
+    "@l": "Debug",
+    "isolationLevel": "Unspecified",
+    "EventId": {
+        "Id": 20209,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Transaction.TransactionStarting"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Transaction",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.4462713Z",
+    "@mt": "Began transaction with isolation level '{isolationLevel}'.",
+    "@l": "Debug",
+    "isolationLevel": "Serializable",
+    "EventId": {
+        "Id": 20200,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Transaction.TransactionStarted"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Transaction",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.4839951Z",
+    "@mt": "Creating DbCommand for '{executionType}'.",
+    "@l": "Debug",
+    "executionType": "ExecuteReader",
+    "EventId": {
+        "Id": 20103,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Command.CommandCreating"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Command",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.4866122Z",
+    "@mt": "Created DbCommand for '{executionType}' ({elapsed}ms).",
+    "@l": "Debug",
+    "executionType": "ExecuteReader",
+    "elapsed": 0,
+    "EventId": {
+        "Id": 20104,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Command.CommandCreated"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Command",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.4948882Z",
+    "@mt": "Executing DbCommand [Parameters=[{parameters}], CommandType='{commandType}', CommandTimeout='{commandTimeout}']{newLine}{commandText}",
+    "@l": "Debug",
+    "parameters": "@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (Size = 10), @p3='?' (Size = 10), @p4='?', @p5='?' (Size = 12), @p6='?' (DbType = DateTime)",
+    "commandType": "Text",
+    "commandTimeout": 30,
+    "newLine": "\r\n",
+    "commandText": "INSERT INTO \"Clientes\" (\"Criacao\", \"DataNascimento\", \"Documento\", \"Nome\", \"Sexo\", \"Telefone\", \"UltimaAlteracao\")\r\nVALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);\r\nSELECT \"Id\"\r\nFROM \"Clientes\"\r\nWHERE changes() = 1 AND \"rowid\" = last_insert_rowid();",
+    "EventId": {
+        "Id": 20100,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Command.CommandExecuting"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Command",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.5051902Z",
+    "@mt": "Executed DbCommand ({elapsed}ms) [Parameters=[{parameters}], CommandType='{commandType}', CommandTimeout='{commandTimeout}']{newLine}{commandText}",
+    "elapsed": "14",
+    "parameters": "@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (Size = 10), @p3='?' (Size = 10), @p4='?', @p5='?' (Size = 12), @p6='?' (DbType = DateTime)",
+    "commandType": "Text",
+    "commandTimeout": 30,
+    "newLine": "\r\n",
+    "commandText": "INSERT INTO \"Clientes\" (\"Criacao\", \"DataNascimento\", \"Documento\", \"Nome\", \"Sexo\", \"Telefone\", \"UltimaAlteracao\")\r\nVALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);\r\nSELECT \"Id\"\r\nFROM \"Clientes\"\r\nWHERE changes() = 1 AND \"rowid\" = last_insert_rowid();",
+    "EventId": {
+        "Id": 20101,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Command",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.5203510Z",
+    "@mt": "The foreign key property '{entityType}.{property}' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.",
+    "@l": "Debug",
+    "entityType": "Cliente",
+    "property": "Id",
+    "EventId": {
+        "Id": 10803,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.ForeignKeyChangeDetected"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.5263273Z",
+    "@mt": "A data reader was disposed.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 20300,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Command.DataReaderDisposing"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Command",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.5308023Z",
+    "@mt": "Committing transaction.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 20210,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Transaction.TransactionCommitting"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Transaction",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.5380041Z",
+    "@mt": "Committed transaction.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 20202,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Transaction.TransactionCommitted"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Transaction",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.5414277Z",
+    "@mt": "Closing connection to database '{database}' on server '{server}'.",
+    "@l": "Debug",
+    "database": "main",
+    "server": "C:\\Users\\alexc\\Documents\\dev\\ConsultorioLegal\\src\\consultorio_legal.db",
+    "EventId": {
+        "Id": 20002,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Connection.ConnectionClosing"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Connection",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.5421221Z",
+    "@mt": "Closed connection to database '{database}' on server '{server}'.",
+    "@l": "Debug",
+    "database": "main",
+    "server": "consultorio_legal.db",
+    "EventId": {
+        "Id": 20003,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Connection.ConnectionClosed"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Connection",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.5440144Z",
+    "@mt": "Disposing transaction.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 20204,
+        "Name": "Microsoft.EntityFrameworkCore.Database.Transaction.TransactionDisposed"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Database.Transaction",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.5522410Z",
+    "@mt": "An entity of type '{entityType}' tracked by '{contextType}' changed state from '{oldState}' to '{newState}'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.",
+    "@l": "Debug",
+    "entityType": "Cliente",
+    "contextType": "DataContext",
+    "oldState": "Added",
+    "newState": "Unchanged",
+    "EventId": {
+        "Id": 10807,
+        "Name": "Microsoft.EntityFrameworkCore.ChangeTracking.StateChanged"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.ChangeTracking",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.5534774Z",
+    "@mt": "SaveChanges completed for '{contextType}' with {savedCount} entities written to the database.",
+    "@l": "Debug",
+    "contextType": "DataContext",
+    "savedCount": 1,
+    "EventId": {
+        "Id": 10005,
+        "Name": "Microsoft.EntityFrameworkCore.Update.SaveChangesCompleted"
+    },
+    "SourceContext": "Microsoft.EntityFrameworkCore.Update",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes",
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1"
+}
+{
+    "@t": "2022-12-28T04:03:57.5558389Z",
+    "@mt": "Tempo de adição de um novo cliente. {Outcome} in {Elapsed:0.0} ms",
+    "@r": [
+        "266.5"
+    ],
+    "Outcome": "completed",
+    "Elapsed": 266.5426,
+    "OperationId": "5dc04bc3-84e0-4503-b042-e5c93c4d2cc1",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.5607746Z",
+    "@mt": "List of registered output formatters, in the following order: {OutputFormatters}",
+    "@l": "Debug",
+    "OutputFormatters": [
+        "Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter",
+        "Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter",
+        "Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter",
+        "Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"
+    ],
+    "EventId": {
+        "Id": 11,
+        "Name": "RegisteredOutputFormatters"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.5635753Z",
+    "@mt": "Attempting to select an output formatter based on Accept header '{AcceptHeader}'.",
+    "@l": "Debug",
+    "AcceptHeader": [
+        "text/plain"
+    ],
+    "EventId": {
+        "Id": 6,
+        "Name": "SelectingOutputFormatterUsingAcceptHeader"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.5646182Z",
+    "@mt": "Could not find an output formatter based on content negotiation. Accepted types were ({AcceptTypes})",
+    "@l": "Debug",
+    "AcceptTypes": [
+        "text/plain"
+    ],
+    "EventId": {
+        "Id": 5,
+        "Name": "NoFormatterFromNegotiation"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.5648102Z",
+    "@mt": "Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 8,
+        "Name": "SelectingOutputFormatterWithoutUsingContentTypes"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}
+{
+    "@t": "2022-12-28T04:03:57.5648590Z",
+    "@mt": "Attempting to select the first formatter in the output formatters list which can write the result.",
+    "@l": "Debug",
+    "EventId": {
+        "Id": 10,
+        "Name": "SelectingFirstCanWriteFormatter"
+    },
+    "SourceContext": "Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector",
+    "ActionId": "4bc36e85-ee79-4b1d-9dd7-ce534c29bdd5",
+    "ActionName": "src.api.UI.Controllers.ClientesController.Post (ConsultorioLegal)",
+    "RequestId": "0HMN8H25D85R0:00000001",
+    "RequestPath": "/api/Clientes"
+}

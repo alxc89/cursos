@@ -1,0 +1,39 @@
+﻿using MudBlazor;
+
+namespace Dima.App;
+
+public static class Configuration
+{
+    public const string HttpClientName = "dima";
+    public static string BackendUrl { get; set; } = "http://localhost:5207/";
+    public static MudTheme Theme = new()
+    {
+        Typography = new()
+        {
+            Default = new Default()
+            {
+                FontFamily = ["Raleway", "sans-serif"]
+            }
+        },
+
+        PaletteLight = new PaletteLight
+        {
+            Primary = "#1EFA2D",
+            Secondary = Colors.LightGreen.Darken3,
+            Background = Colors.Gray.Lighten4,
+            AppbarText = Colors.Shades.Black,
+            TextPrimary = Colors.Shades.Black,
+            PrimaryContrastText = Colors.Shades.Black,
+            DrawerText = Colors.Shades.Black,
+            DrawerBackground = Colors.LightGreen.Lighten4
+        },
+
+        PaletteDark = new PaletteDark
+        {
+            Primary = Colors.LightGreen.Accent3,
+            Secondary = Colors.LightGreen.Darken3,
+            AppbarBackground = Colors.LightGreen.Accent3,
+            AppbarText = Colors.Shades.Black,
+        }
+    };
+}

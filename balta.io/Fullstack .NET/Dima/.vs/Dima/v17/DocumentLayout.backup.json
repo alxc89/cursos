@@ -1,12 +1,139 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexc\\Documents\\dev\\Dima\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85123545-3317-4CF4-A7C1-3E86E538717C}|Dima.Core\\Dima.Core.csproj|c:\\users\\alexc\\documents\\dev\\cursos\\balta.io\\fullstack .net\\dima\\dima.core\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85123545-3317-4CF4-A7C1-3E86E538717C}|Dima.Core\\Dima.Core.csproj|solutionrelative:dima.core\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|c:\\users\\alexc\\documents\\dev\\cursos\\balta.io\\fullstack .net\\dima\\dima.api\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|c:\\users\\alexc\\documents\\dev\\cursos\\balta.io\\fullstack .net\\dima\\dima.api\\commom\\api\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\commom\\api\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|c:\\users\\alexc\\documents\\dev\\cursos\\balta.io\\fullstack .net\\dima\\dima.api\\commom\\api\\builderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\commom\\api\\builderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|c:\\users\\alexc\\documents\\dev\\cursos\\balta.io\\fullstack .net\\dima\\dima.api\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|c:\\users\\alexc\\documents\\dev\\cursos\\balta.io\\fullstack .net\\dima\\dima.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|c:\\users\\alexc\\documents\\dev\\cursos\\balta.io\\fullstack .net\\dima\\dima.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B9D1-9968-4B0A-A278-FBA6A555E50A}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Core\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Dima.Core\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Core\\Models\\Transaction.cs",
+              "RelativeToolTip": "Dima.Core\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:09:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\Handlers\\CategoryHandler.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Handlers\\CategoryHandler.cs",
+              "ToolTip": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\Handlers\\CategoryHandler.cs",
+              "RelativeToolTip": "Dima.Api\\Handlers\\CategoryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:08:50.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\Commom\\Api\\AppExtensions.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Commom\\Api\\AppExtensions.cs",
+              "ToolTip": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\Commom\\Api\\AppExtensions.cs",
+              "RelativeToolTip": "Dima.Api\\Commom\\Api\\AppExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:50:58.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Dima.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:44:11.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\Commom\\Api\\BuilderExtension.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Commom\\Api\\BuilderExtension.cs",
+              "ToolTip": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\Commom\\Api\\BuilderExtension.cs",
+              "RelativeToolTip": "Dima.Api\\Commom\\Api\\BuilderExtension.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:37:25.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\ApiConfiguration.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\ApiConfiguration.cs",
+              "ToolTip": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\ApiConfiguration.cs",
+              "RelativeToolTip": "Dima.Api\\ApiConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:37:17.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\alexc\\Documents\\dev\\cursos\\balta.io\\Fullstack .NET\\Dima\\Dima.Api\\Program.cs",
+              "RelativeToolTip": "Dima.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:37:09.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

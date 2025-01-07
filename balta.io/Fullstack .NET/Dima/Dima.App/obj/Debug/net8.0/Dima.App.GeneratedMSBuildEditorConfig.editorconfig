@@ -16,43 +16,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Dima.App
 build_property.RootNamespace = Dima.App
-build_property.ProjectDir = C:\Users\alexc\Documents\dev\Dima\Dima.App\
+build_property.ProjectDir = C:\Users\alexc\Documents\dev\cursos\balta.io\Fullstack .NET\Dima\Dima.App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\alexc\Documents\dev\Dima\Dima.App
+build_property.MSBuildProjectDirectory = C:\Users\alexc\Documents\dev\cursos\balta.io\Fullstack .NET\Dima\Dima.App
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/alexc/Documents/dev/Dima/Dima.App/App.razor]
+[C:/Users/alexc/Documents/dev/cursos/balta.io/Fullstack .NET/Dima/Dima.App/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexc/Documents/dev/Dima/Dima.App/Layouts/HeadlessLayout.razor]
+[C:/Users/alexc/Documents/dev/cursos/balta.io/Fullstack .NET/Dima/Dima.App/Layouts/HeadlessLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xIZWFkbGVzc0xheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexc/Documents/dev/Dima/Dima.App/Layouts/MainLayout.razor]
+[C:/Users/alexc/Documents/dev/cursos/balta.io/Fullstack .NET/Dima/Dima.App/Layouts/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xNYWluTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexc/Documents/dev/Dima/Dima.App/Layouts/MenuToggle.razor]
+[C:/Users/alexc/Documents/dev/cursos/balta.io/Fullstack .NET/Dima/Dima.App/Layouts/MenuToggle.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xNZW51VG9nZ2xlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexc/Documents/dev/Dima/Dima.App/Pages/Home.razor]
+[C:/Users/alexc/Documents/dev/cursos/balta.io/Fullstack .NET/Dima/Dima.App/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexc/Documents/dev/Dima/Dima.App/Pages/Identity/Login.razor]
+[C:/Users/alexc/Documents/dev/cursos/balta.io/Fullstack .NET/Dima/Dima.App/Pages/Identity/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexc/Documents/dev/Dima/Dima.App/Pages/Identity/Register.razor]
+[C:/Users/alexc/Documents/dev/cursos/balta.io/Fullstack .NET/Dima/Dima.App/Pages/Identity/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexc/Documents/dev/Dima/Dima.App/_Imports.razor]
+[C:/Users/alexc/Documents/dev/cursos/balta.io/Fullstack .NET/Dima/Dima.App/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
